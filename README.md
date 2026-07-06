@@ -1,4 +1,4 @@
-# 📊HR-performance-analysis
+# 📊HR-Attrition-analysis
 ##  Tools Used
  - Microsoft Excel
  - Power Query
