@@ -10,6 +10,8 @@ This project aims to analyze employee turnover patterns and which departments ar
 - How to interpret data and draw insights from the dashboard
 ## 🔗 Preview
 https://github.com/chivikky22-stack/HR-performance analysis/raw/refs/heads/main/HR%20performance%20Project.xlsx
-> Click the link to see the preview of the raw dataset, pivot-table and final dashboard
+https://github.com/chivikky22-stack/Ibeabuchi-Chinonso-Portfolio/blob/main/HR_Attrition_Data_%20Reports.pdf
+> Click the first link to see the preview of the raw dataset, pivot table, and final dashboard. Then
+> Click the second link to view the Data report, which contain Business problem, Objective, data insight and recommendation
 # Employee Turnover Pattern
 This is a beginner-friendly Employee Turnover analysis done in Excel and Power Query
